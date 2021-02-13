@@ -1,2 +1,2 @@
 # orca
-Data analysis of Orca/Dolphin Siting's
+Data analysis of Sea Mammal Siting's
